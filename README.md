@@ -1,5 +1,11 @@
 # ichipro-front
 
+いちぴろのプロになりたいらしい
+
+## 制作風景
+
+<img href="./assets/tsukurikake.webp" width="300px">
+
 ## Project setup
 
 ```
